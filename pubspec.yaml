@@ -1,5 +1,5 @@
 name: phone_gate
-description: "A new Flutter package project."
+description: "Blocks normal-size phones with an unsupported-device screen while letting tablets, unfolded foldables and desktop through."
 version: 0.0.1
 homepage:
 
